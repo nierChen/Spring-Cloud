@@ -1,0 +1,4 @@
+feign\client\ServiceFeignApplication.class
+feign\client\HelloWorldServiceFailure.class
+feign\client\HelloWorldService.class
+feign\client\WebController.class
